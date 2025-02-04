@@ -1,2 +1,2 @@
-# Philatos-
+# Philatos
 Personal AI Application 
